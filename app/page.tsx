@@ -73,7 +73,7 @@ export default function Page() {
     },
     {title: "Habit Hero",
       description: "Achieve your goals and build positive habits with Habit Hero! 💪",
-      tech: ["React", "TypeScript", "Node.js, MongoDB"],
+      tech: ["React", "TypeScript", "Node.js", "MongoDB"],
       status: "In development",
       color: "from-purple-500 to-blue-500",
       url: ""
