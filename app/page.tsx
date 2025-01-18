@@ -72,7 +72,7 @@ export default function Page() {
       url: "https://puzzlequest.vercel.app/"
     },
     {title: "Habit Hero",
-      description: "Build positive habits and achieve your goals with Habit Hero, your ultimate sidekick! 💪",
+      description: "Achieve your goals and build positive habits with Habit Hero! 💪",
       tech: ["React", "TypeScript", "Node.js, MongoDB"],
       status: "In development",
       color: "from-purple-500 to-blue-500",
